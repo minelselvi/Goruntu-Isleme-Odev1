@@ -1,0 +1,14 @@
+C:\Users\minel\Desktop\minel selvi\minel selvi\bin\Debug\minel selvi.exe.config
+C:\Users\minel\Desktop\minel selvi\minel selvi\bin\Debug\minel selvi.exe
+C:\Users\minel\Desktop\minel selvi\minel selvi\bin\Debug\minel selvi.pdb
+C:\Users\minel\Desktop\minel selvi\minel selvi\obj\Debug\minel selvi.csprojResolveAssemblyReference.cache
+C:\Users\minel\Desktop\minel selvi\minel selvi\obj\Debug\minel_selvi.Form1.resources
+C:\Users\minel\Desktop\minel selvi\minel selvi\obj\Debug\minel_selvi.Form2.resources
+C:\Users\minel\Desktop\minel selvi\minel selvi\obj\Debug\minel_selvi.Properties.Resources.resources
+C:\Users\minel\Desktop\minel selvi\minel selvi\obj\Debug\minel selvi.csproj.GenerateResource.Cache
+C:\Users\minel\Desktop\minel selvi\minel selvi\obj\Debug\minel selvi.exe
+C:\Users\minel\Desktop\minel selvi\minel selvi\obj\Debug\minel selvi.pdb
+C:\Users\minel\Desktop\minel selvi\minel selvi\obj\Debug\minel_selvi.Form3.resources
+C:\Users\minel\Desktop\minel selvi\minel selvi\obj\Debug\minel_selvi.Form4.resources
+C:\Users\minel\Desktop\minel selvi\minel selvi\obj\Debug\minel_selvi.Form5.resources
+C:\Users\minel\Desktop\minel selvi\minel selvi\obj\Debug\minel_selvi.Form6.resources
